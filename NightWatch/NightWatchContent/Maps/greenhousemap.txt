@@ -1,0 +1,16 @@
+....................
+....................
+WWWWWWWWWWWWWWWWWWWW
+WfOOOOOOOOOOOOOOffOW
+WfffffffffffffffffOW
+WfffffffffffffffffOW
+WffOOOOOOOOOOOOOffOW
+WfffffffffffffffffOW
+WfffffffffffffffffOW
+WffOOOOOOOOOOOOOffOW
+WffffffffffffffffffW
+WffffffffffffffffffW
+WWDWWWWWWWWWWWWWWWWW
+....................
+....................
+0,backyardmap.txt,0,bottom

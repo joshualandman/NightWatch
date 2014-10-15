@@ -1,0 +1,17 @@
+WWWWWWWWWWWWWWWWWWWW
+Wkkkkkkkk2kkkkkkkkkW
+WffffffffffffffffffW
+WffkkffkkffkkffkkffW
+Wff1kffkkffkkffkkffW
+WffkkffkkffkkffkkffW
+WffkkffkkffkkffkkffW
+WffffffffffffffffffW
+WffffffffffffffffffW
+WffkkffkkffkkffkkffW
+DffkkffkkffkkffkkffW
+Wffkkffkkff3kffkkffW
+WffkkffkkffkkffkkffW
+WfffffffffffffffffDW
+WWWWWWWWWWWWWWWWWWWW
+0,upperfoyermap.txt,1,left
+1,secretroommap.txt,0,bottom
