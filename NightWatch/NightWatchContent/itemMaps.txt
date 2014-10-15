@@ -1,0 +1,15 @@
+dungeonmap.txt,Knife,90,165,Knife,0
+dungeonmap.txt,DungeonKey,320,165,Key,1
+dungeonmap.txt,Journal_1,390,165,Page,2
+null.txt,ScrewDriver,0,0,ScrewDriver,3
+secretroommap.txt,KitchenKey,220,225,KeySilver,4
+null.txt,Apple,0,0,Apple,5
+null.txt,FrozenApple,0,0,AppleFrozen,6
+lowerfoyermap.txt,Journal_Desc,40,40,Page,7
+lowerfoyermap.txt,Journal_2,550,500,Page,8
+lowerfoyermap.txt,Journal_3,550,500,Page,9
+lowerfoyermap.txt,Journal_4,550,500,Page,10
+lowerfoyermap.txt,Journal_5,550,500,Page,11
+lowerfoyermap.txt,Journal_6,550,500,Page,12
+lowerfoyermap.txt,Journal_7,550,500,Page,13
+lowerfoyermap.txt,Journal_8,550,500,Page,14
